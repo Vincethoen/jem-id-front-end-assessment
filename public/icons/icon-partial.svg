@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="257" cy="256" r="117" stroke="black" stroke-width="20"/>
+<rect x="240" y="30" width="33" height="65" rx="16.5" fill="black"/>
+<rect x="99" y="239" width="33" height="65" rx="16.5" transform="rotate(90 99 239)" fill="black"/>
+<rect x="126.792" y="161.5" width="33" height="65" rx="16.5" transform="rotate(120 126.792 161.5)" fill="black"/>
+<rect x="191.008" y="112.349" width="33" height="65" rx="16.5" transform="rotate(150.102 191.008 112.349)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(1 0 0 -1 240 481.079)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 126.792 349.579)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(-0.86691 -0.498464 -0.498464 0.86691 191.008 398.73)" fill="black"/>
+<mask id="path-9-inside-1_2808_77" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M259 383C329.14 383 386 326.14 386 256C386 185.86 329.14 129 259 129V383Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M259 383C329.14 383 386 326.14 386 256C386 185.86 329.14 129 259 129V383Z" fill="black"/>
+<path d="M259 383H239V403H259V383ZM259 129V109H239V129H259ZM366 256C366 315.094 318.094 363 259 363V403C340.186 403 406 337.186 406 256H366ZM259 149C318.094 149 366 196.906 366 256H406C406 174.814 340.186 109 259 109V149ZM239 129V383H279V129H239Z" fill="black" mask="url(#path-9-inside-1_2808_77)"/>
+</svg>

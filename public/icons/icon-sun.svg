@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="257" cy="256" r="117" stroke="black" stroke-width="20"/>
+<rect x="240" y="30" width="33" height="65" rx="16.5" fill="black"/>
+<rect x="99" y="239" width="33" height="65" rx="16.5" transform="rotate(90 99 239)" fill="black"/>
+<rect x="126.792" y="161.5" width="33" height="65" rx="16.5" transform="rotate(120 126.792 161.5)" fill="black"/>
+<rect x="191.008" y="112.349" width="33" height="65" rx="16.5" transform="rotate(150.102 191.008 112.349)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(1 0 0 -1 240 481.079)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 126.792 349.579)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(-0.86691 -0.498464 -0.498464 0.86691 191.008 398.73)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(4.37114e-08 1 1 -4.37114e-08 414.008 239)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(0.5 0.866025 0.866025 -0.5 386.217 161.5)" fill="black"/>
+<rect width="33" height="65" rx="16.5" transform="matrix(0.86691 0.498464 0.498464 -0.86691 322 112.349)" fill="black"/>
+<rect x="386.217" y="349.579" width="33" height="65" rx="16.5" transform="rotate(-60 386.217 349.579)" fill="black"/>
+<rect x="322" y="398.73" width="33" height="65" rx="16.5" transform="rotate(-29.8985 322 398.73)" fill="black"/>
+</svg>
