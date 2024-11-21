@@ -20,7 +20,7 @@ Voor dit project moet je de volgende software geïnstalleerd hebben:
 
 1. Clone het project naar je lokale machine:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Vincethoen/jem-id-front-end-assessment.git
     ```
 
 2. Navigeer naar de projectmap:
